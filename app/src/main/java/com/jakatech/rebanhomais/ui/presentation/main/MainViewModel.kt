@@ -1,4 +1,4 @@
-package com.jakatech.rebanhomais.ui
+package com.jakatech.rebanhomais.ui.presentation.main
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
